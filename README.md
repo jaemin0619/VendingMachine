@@ -1,1 +1,1 @@
-#객체 지향 + package 추가 
+#객체 지향 + package+ access + java memory 추가 
