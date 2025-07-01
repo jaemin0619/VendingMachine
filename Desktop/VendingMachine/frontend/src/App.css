@@ -1,0 +1,14 @@
+.admin-panel {
+  padding: 20px;
+}
+
+.tab-buttons {
+  margin-bottom: 15px;
+}
+
+.drink-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 8px;
+}

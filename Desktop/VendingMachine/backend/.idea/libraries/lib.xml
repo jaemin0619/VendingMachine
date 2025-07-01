@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../openjfx-24.0.1_windows-x64_bin-sdk/javafx-sdk-24.0.1/lib" />
+      <root url="jar://$USER_HOME$/Downloads/Java-WebSocket-1.5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-simple-1.7.36.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-20231013.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../openjfx-24.0.1_windows-x64_bin-sdk/javafx-sdk-24.0.1/lib" recursive="false" />
+  </library>
+</component>
