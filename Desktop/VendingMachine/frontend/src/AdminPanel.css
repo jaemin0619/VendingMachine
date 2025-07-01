@@ -1,0 +1,28 @@
+/* src/AdminPanel.css */
+.admin-panel {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.tab-buttons button {
+  margin-right: 8px;
+  padding: 8px 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.drink-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input[type=\"number\"], input[type=\"text\"] {
+  width: 100px;
+  padding: 4px;
+}
